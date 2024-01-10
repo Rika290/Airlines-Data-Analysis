@@ -12,4 +12,6 @@ Airlines Data Analysis
 6. distribution of price based on cities
 7. top 3 airlines based on their ticket price
 
+- Different charts and graphs based on the data types were used to build this dashboard.
+  
 This analysis can help in tracking the availability and performance of each airline.
