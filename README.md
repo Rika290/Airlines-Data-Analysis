@@ -14,4 +14,4 @@ Airlines Data Analysis
 
 - Different charts and graphs based on the data types were used to build this dashboard.
   
-This analysis can help in tracking the availability and performance of each airline.
+This analysis will be helpful to track the availability and performance of each airline.
